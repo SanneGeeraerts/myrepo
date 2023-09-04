@@ -3,11 +3,9 @@ example
 Sanne Geeraerts
 2023-09-04
 
-## insert your brilliant WORKING code here
+insert your brilliant WORKING code here blablabla added new text
 
-blablabla added new text
-
-## R Markdown
+R Markdown
 
 ``` r
 summary(cars)
@@ -21,26 +19,12 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-## Including Plots
+Including Plots You can also embed plots, for example:
 
-You can also embed plots, for example:
-
-![](example_files/figure-gfm/pressure-1.png)<!-- -->
+![](example_files/figure-gfm/r%20pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
-
-``` r
-head(cars)
-```
-
-    ##   speed dist
-    ## 1     4    2
-    ## 2     4   10
-    ## 3     7    4
-    ## 4     7   22
-    ## 5     8   16
-    ## 6     9   10
 
 ``` r
 print("new text")
