@@ -5,7 +5,7 @@ Sanne Geeraerts
 
 ## insert your brilliant WORKING code here
 
-blablabla
+blablabla added new text
 
 ## R Markdown
 
@@ -41,3 +41,9 @@ head(cars)
     ## 4     7   22
     ## 5     8   16
     ## 6     9   10
+
+``` r
+print("new text")
+```
+
+    ## [1] "new text"
